@@ -1,0 +1,16 @@
+{
+  "dependencies": {},
+  "description": "Loader for Node native extensions",
+  "keywords": [
+    "electron",
+    "loader",
+    "node",
+    "webpack"
+  ],
+  "repository": "https://github.com/orangeChu/node-loader-ext",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "node-loader-ext",
+  "scripts": {},
+  "version": "1.0.1"
+}
